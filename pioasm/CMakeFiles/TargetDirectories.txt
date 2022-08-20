@@ -1,0 +1,3 @@
+/home/dapu/workdir_local/picoprobe/pioasm/CMakeFiles/rebuild_cache.dir
+/home/dapu/workdir_local/picoprobe/pioasm/CMakeFiles/edit_cache.dir
+/home/dapu/workdir_local/picoprobe/pioasm/CMakeFiles/pioasm.dir
